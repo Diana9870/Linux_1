@@ -1,5 +1,6 @@
 # Завдання 1
 
+```
 HP EliteBook@DESKTOP-E5EPJ14 MINGW64 ~/Linux_1 (main)
 $ cd ~
 
@@ -81,6 +82,7 @@ $ cd /c/Users/HP\ EliteBook
 
 HP EliteBook@DESKTOP-E5EPJ14 MINGW64 ~
 $ cd ~
+```
 
 # Завдання 2
 
