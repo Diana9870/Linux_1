@@ -62,13 +62,10 @@ $ ls
  Intel-Driver-and-Support-Assistant-Installer.exe*
  postgresql-17.9-3-windows-x64.exe*
  python-manager-26.0.msix
-'UMT-pythonweb-hw-08-main (1).zip'
  UMT-pythonweb-hw-08-main.zip
 'ДЗ3_Поліщук Діана Сергіївна.zip'
 'ДЗ4_Поліщук Діана Сергіївна.zip'
-'ДЗ6_Поліщук Діана Сергіївна (2).zip'
 'ДЗ6_Поліщук Діана Сергіївна.zip'
-'ДЗ8_Поліщук Діана Сергіївна (2).zip'
 'ДЗ8_Поліщук Діана Сергіївна.zip'
 
 HP EliteBook@DESKTOP-E5EPJ14 MINGW64 ~/Downloads
